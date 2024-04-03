@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup (
   name='mypandas2024_JKK',
-  packages=['mypandas']
+  packages=['mypandas'],
   version='0.0.1',
   description='oss-dev mypandas app 0001',
   author = 'jkkim',
